@@ -5,3 +5,4 @@
 **Favorite Food:** Collard Greens
 **Hobby:** Following UCLA Bruins
 **Favorite Color:** Blue
+**Current City:** Redlands, CA
